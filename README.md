@@ -17,5 +17,6 @@ Here is the link for playing the game - https://github.com/SparshKat/RGB-Game
 ## This is how the game looks
 
 ### Hard difficulty 
-![Hard Question](/hard q.png)
+
+<img src="hard_q.png" width="338px" height="731px"/>
 
