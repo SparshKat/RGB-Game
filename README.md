@@ -17,12 +17,14 @@ Here is the link for playing the game - https://github.com/SparshKat/RGB-Game
 ## This is how the game looks
 
 ### Hard difficulty 
-<img src="hard_q.png" width="731px" height="338px"/>
+<img src="hard_q.png" width="731px" height="438px"/>
+
 ### Hard difficulty Upon answering the clicking the correct grid
 <img src="hard_ans.png" width="731px" height="338px"/>
 
 ### Easy difficulty 
 <img src="easy_q.png" width="731px" height="338px"/>
+
 ### Easy difficulty Upon answering the clicking the correct grid
 <img src="easy_ans.png" width="731px" height="338px"/>
 
